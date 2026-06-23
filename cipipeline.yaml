@@ -26,4 +26,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: kumar2167/demo-nginx:latest
+        tags: nitintrg/demo-nginx:latest
